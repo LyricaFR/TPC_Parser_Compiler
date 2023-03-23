@@ -1,0 +1,6 @@
+char c;
+int a;
+
+int main(void);
+
+/* pas d'accolade à la fonction donc erreur */

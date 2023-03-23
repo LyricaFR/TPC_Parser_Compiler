@@ -1,0 +1,9 @@
+int name;
+
+char name(void){	
+}
+
+
+int main(void){
+
+}

@@ -1,0 +1,6 @@
+int main(void){
+	int a, b;
+	a = 12;
+    return a + b
+;}
+

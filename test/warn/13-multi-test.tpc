@@ -1,0 +1,23 @@
+
+char my_glb_char;
+int my_glb_int;
+
+
+int test(void){
+	return 1;
+}
+
+char test1(char a){
+	return test();	
+}
+
+char test2(char b){
+	
+	return test1(2) + 1;
+}
+
+int main(void){
+
+	test2(99);
+	return 0;
+}

@@ -1,0 +1,10 @@
+
+char test(void){
+    return 194;
+}
+
+int main(void){
+
+	return 0;
+}
+

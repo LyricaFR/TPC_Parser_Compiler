@@ -1,0 +1,12 @@
+
+int main(void){
+	int b;
+	int a;
+	switch(a){
+		break;
+		a = 13;
+		b = a * 2;
+
+
+	}
+}

@@ -1,0 +1,13 @@
+int a, b, c, d, e;
+int valeur;
+
+int function(int po, char c){
+	int a; 
+	a = 46;
+	return a;
+}
+
+int main(void){
+
+	return 0;
+}

@@ -1,0 +1,54 @@
+
+int ghost(void){
+	
+}
+
+
+
+int abort(void){
+	
+}
+int magic_number(void){
+	
+}
+
+int sqrt(void){
+	
+}
+
+int launch_app(void){
+	
+}
+
+int spook(void){
+	
+}
+
+int main(void){
+	
+	int i;
+	switch(i) {
+		case 1:
+			switch(i) {
+				case 1:
+					break;
+
+				default:
+					break;
+			}
+			break;
+			break;
+		default:
+			switch(i) {
+				case 1:
+					break;
+
+				default:
+					break;
+			}		
+			break;
+	}
+
+
+	return 0;
+}

@@ -1,0 +1,8 @@
+char c;
+int a;
+
+int main(){
+	
+}
+
+/* La fonction n'as pas d'argument donc erreur */

@@ -1,0 +1,12 @@
+
+int fun(int a, int b){
+	return 1;
+}
+
+
+int main(void){
+
+	fun();
+
+	return 0;
+}

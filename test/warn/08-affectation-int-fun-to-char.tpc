@@ -1,0 +1,11 @@
+
+int test(int a, int b){
+	return a + b;
+}
+
+int main(void){
+	char my_char;
+	my_char = test(5, 10);
+
+	return 0;
+}

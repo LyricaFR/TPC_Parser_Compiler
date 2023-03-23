@@ -1,0 +1,9 @@
+
+int main(void){
+	
+	char my_char;
+	my_char = 97;
+
+	return 0;
+}
+

@@ -1,0 +1,23 @@
+int
+a;
+
+char
+c;
+
+char 
+test 
+(char c)
+{
+	c 
+	=
+	'p'
+	;
+	return
+	c
+	;
+}
+
+int main(void){
+
+	return 0;
+}

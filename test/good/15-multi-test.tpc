@@ -1,0 +1,25 @@
+int main(void){
+    int a;
+    int b;
+    char c;
+    a = 97;
+    b = 'b';
+    c = 'c';
+    if (a != b){
+        a = b;
+        return 0;
+    }
+    switch(c){
+        case 'a':
+            c = 'z';
+            break;
+        case 'c':
+            break;
+            break;
+        default:
+            break;
+            c = '?';
+    }
+    return 0;
+}
+

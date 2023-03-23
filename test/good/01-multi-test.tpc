@@ -1,0 +1,57 @@
+int a;
+
+void test(void){
+    return;
+}
+
+int cpt(int a){
+    if (a == 0){
+        return 1;
+    }
+    return 1 + cpt(a - 1);
+}
+
+int main(void){
+    int test;
+    int a;
+    char b;
+
+    test = '0';
+    a = 3;
+    test = cpt(a);
+    while(6){
+        if (a < 0){
+            return;
+        }
+        else {
+            if (1){
+                while (2){
+                    test();
+                }
+                switch(a){
+                    case 1:
+                    break;
+                    case 2:
+                    switch(a){
+                        case 'a':
+                        return 1;
+                        test();
+                        return cpt(b) + 35;
+                    }
+                    default:
+                    break;
+                }
+            }
+            else{}
+        }
+        return 0;
+    }
+
+
+    return 0;
+}
+/* lol 
+
+*/
+
+//Youpi

@@ -1,0 +1,7 @@
+int main(void){
+	int i;
+	switch(i){
+		case 1:
+	}
+
+}

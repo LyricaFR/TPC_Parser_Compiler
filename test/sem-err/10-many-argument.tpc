@@ -1,0 +1,14 @@
+
+int fun(int a, int b){
+	return 1;
+}
+
+
+int main(void){
+	int a;
+	int b;
+	int c;
+	fun(a, b, c);
+
+	return 0;
+}

@@ -1,0 +1,4 @@
+int a, b;
+int valeur;
+
+/* Ne marche pas car il n'y a pas de déclaration de fonction */

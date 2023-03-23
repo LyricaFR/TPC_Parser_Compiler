@@ -1,0 +1,11 @@
+
+char test(void){
+	int my_int;
+	return my_int;
+}
+
+int main(void){
+	
+	return 0;
+}
+

@@ -1,0 +1,14 @@
+
+int test(char my_char, int my_int){
+    return 1;
+}
+
+
+int main(void){
+
+    char my_char;
+    int my_int;
+    test(my_int, my_int);
+    return 0;
+}
+

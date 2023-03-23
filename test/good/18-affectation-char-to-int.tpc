@@ -1,0 +1,20 @@
+char my_glb_char;
+
+char fun(void){
+	
+}
+
+int fun2(void){
+	return 'a';
+}
+
+int main(void){
+	int my_int;
+	char my_char;
+
+	my_int = my_char;
+	my_int = 'a';
+	my_int = my_glb_char;
+
+	return 0;
+}

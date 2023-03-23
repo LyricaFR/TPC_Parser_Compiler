@@ -1,0 +1,10 @@
+
+void b(void){
+
+}
+
+int main(void){
+	int a;	
+	a = b();
+	return 0;
+}

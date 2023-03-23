@@ -1,0 +1,22 @@
+int rsdgffs;
+
+int mul(char q, int a){
+    int x;
+    if (a == 1) {
+        return '1';
+    }
+    else {
+        return;
+    }
+}
+
+int main(void){ 
+
+    int a;
+    char b;
+    char c;
+    a = 5;
+    b = 'a';
+    return 0;
+
+}

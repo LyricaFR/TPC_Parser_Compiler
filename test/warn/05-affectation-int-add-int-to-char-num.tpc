@@ -1,0 +1,14 @@
+
+char f(void){
+	
+	return 10424 + 'a' + 54345 + 'a';
+}
+
+
+int main(void){
+	
+	char my_char;
+	my_char = 97 + 100;
+
+	return 0 + 100;
+}

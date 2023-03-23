@@ -1,0 +1,12 @@
+
+int main(void){
+	int i;
+	switch(i){
+		case 1:
+			break;
+		default:
+		default:
+		break;
+	}
+	return 0;
+}

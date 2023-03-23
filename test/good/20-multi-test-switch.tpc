@@ -1,0 +1,16 @@
+
+
+int test(int a, int b){
+	return 0;
+}
+
+int main(void){
+	int a;
+	int b;
+	a = 5;
+	b = 6;
+	a = test(a, b);
+
+
+	return 0;
+}

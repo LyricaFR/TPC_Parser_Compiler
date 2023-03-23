@@ -1,0 +1,39 @@
+int fun;
+
+int fun(int test){
+	int test;
+	return 1;
+}
+
+int main(void){
+	int a;
+	int a;
+	b = a + 1;
+
+	if(c == 0){
+		if (b == 0){
+			d = 5;
+		}
+	}
+	else {
+		a = 8;
+	}
+
+	switch(a){
+		case 2:
+			break;
+		case 2:
+			break;
+
+		default:
+		default:
+		default:
+		break;
+
+		case 2:
+			break;
+
+	}
+
+	return 0;
+}

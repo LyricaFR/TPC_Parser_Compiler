@@ -1,0 +1,30 @@
+int a;
+char lettre;
+
+char repeat(char letter){
+    return letter;
+}
+
+int sum(int x, int y){
+    return x + y;
+}
+
+
+int equals(int q, int s){
+    if (q == s) {
+        return 1;
+    }
+    else {
+        return 0;
+    }
+}
+
+char add(int x, int y){
+    return 'b';
+}
+
+int main(void){
+    char count;
+    count = 'a';
+}
+

@@ -1,0 +1,18 @@
+int test_switch(int a){
+    switch(a){
+    a = 12;
+    default:
+        a = 12;
+    case 1: 
+        a = 1; 
+        break;
+    case 2:
+        a = 2; break;
+    }
+    return 1;
+}
+
+int main(void){
+
+	return 0;
+}

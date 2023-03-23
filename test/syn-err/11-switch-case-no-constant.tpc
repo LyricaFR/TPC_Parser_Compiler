@@ -1,0 +1,14 @@
+
+int carre(int a){
+	return a * a;
+}
+
+int main(void){
+	int i;
+	int count;
+	switch(i) {
+		case carre(25) + count:
+			break;
+	}
+	return 0;
+}

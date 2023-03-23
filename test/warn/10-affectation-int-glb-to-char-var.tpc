@@ -1,0 +1,8 @@
+
+char my_char;
+
+int main(void){
+	int my_int;
+	my_char = my_int;
+	return 0;
+}

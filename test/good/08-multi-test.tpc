@@ -1,0 +1,5 @@
+int nb;
+int a, b, c;
+char lettre;
+
+int main(void){}

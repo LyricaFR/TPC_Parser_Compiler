@@ -1,0 +1,15 @@
+
+int main(void){
+	int b;
+	int a;
+	b = 1;
+	switch(a){
+		case b:
+			break;
+		case 2:
+		 	break;
+		 default:
+		 	break;
+
+	}
+}

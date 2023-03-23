@@ -1,0 +1,38 @@
+
+char my_glb_char;
+int my_glb_int;
+
+int test(char a){
+	return 1;	
+}
+
+char test2(char b){
+
+	if (b < 0){
+		b = b + 1;
+	}
+
+	return b;
+}
+
+
+
+int main(void){
+	int my_int;
+	char my_char;
+	int i;
+
+	i = test(my_int);
+	switch(i){
+		case 0:
+			my_glb_char = test2(my_char);
+			break;
+
+		case 1:
+			if (my_glb_int > 0){
+				my_char = test2(my_glb_int + 1);
+			}
+			break;
+	}
+	return 0;
+}
